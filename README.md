@@ -1,8 +1,8 @@
-### 👋
+<h1 style="font-size: 200pt">👋</h1>
 
-<a href="https://sourcerer.io/vinhowe">
+<!--a href="https://sourcerer.io/vinhowe">
   <img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer">
-</a>
+</a-->
 
 <!--
 **vinhowe/vinhowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
