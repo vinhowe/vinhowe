@@ -1,20 +1,9 @@
-<h1 style="font-size: 200pt">👋</h1>
+my stars
 
-<!--a href="https://sourcerer.io/vinhowe">
-  <img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer">
-</a-->
-
-<!--
-**vinhowe/vinhowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [resources, courses, lists](https://github.com/stars/vinhowe/lists/resources-courses-lists)
+- [large language models](https://github.com/stars/vinhowe/lists/large-language-models)
+- [cool tools](https://github.com/stars/vinhowe/lists/cool-tools)
+- [security](https://github.com/stars/vinhowe/lists/security)
+- [computer vision](https://github.com/stars/vinhowe/lists/computer-vision)
+- [computer graphics](https://github.com/stars/vinhowe/lists/computer-graphics)
+- [os design](https://github.com/stars/vinhowe/lists/os-design)
