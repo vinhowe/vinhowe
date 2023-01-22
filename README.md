@@ -1,5 +1,7 @@
 **[vin.how](https://vin.how)**
 
+$\delta$
+
 **my stars**
 
 - [resources, courses, lists](https://github.com/stars/vinhowe/lists/resources-courses-lists)
