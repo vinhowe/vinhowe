@@ -1,6 +1,4 @@
-**[vin.how](https://vin.how)**
-
-$\delta$
+**[$\Large\text{vin.how}$](https://vin.how)**
 
 **my stars**
 
