@@ -1,4 +1,4 @@
-my stars
+**my stars**
 
 - [resources, courses, lists](https://github.com/stars/vinhowe/lists/resources-courses-lists)
 - [large language models](https://github.com/stars/vinhowe/lists/large-language-models)
