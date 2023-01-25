@@ -2,6 +2,7 @@
 
 **my stars**
 
+- [watching this](https://github.com/stars/vinhowe/lists/watching-this)
 - [resources, courses, lists](https://github.com/stars/vinhowe/lists/resources-courses-lists)
 - [large language models](https://github.com/stars/vinhowe/lists/large-language-models)
 - [cool tools](https://github.com/stars/vinhowe/lists/cool-tools)
