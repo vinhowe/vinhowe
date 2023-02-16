@@ -1,9 +1,5 @@
 **[vin.how](https://vin.how)**
 
-**[howe.vin](https://howe.vin)**
-
-**[toknowsome.one](https://toknowsome.one)**
-
 **my stars**
 
 - [large language models](https://github.com/stars/vinhowe/lists/large-language-models)
